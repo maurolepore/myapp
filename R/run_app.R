@@ -1,6 +1,4 @@
 run_app <- function() {
-  library(shiny)
-
   ui <- fluidPage(
     "Hello, world!"
   )
