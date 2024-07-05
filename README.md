@@ -1,7 +1,6 @@
 # myapp
 
-The goal of this repo is to serve as a template for a conteinerized shiny app that you 
-can setup to continuously build and deploy on Google Cloud Run. 
+The goal of this repo is to serve as a template for a conteinerized shiny app that you can setup to continuously build and deploy on Google Cloud Run. 
 
 * [Video](https://youtu.be/PRKOMCCOlI0)
 * [Google Clud Run Documentation](https://cloud.google.com/run/docs)
