@@ -1,6 +1,9 @@
+#' @import shiny
+NULL
+
 run_app <- function() {
   ui <- fluidPage(
-    "Hello, world!"
+    "HELLO, WORLD!"
   )
 
   server <- function(input, output, session) {
