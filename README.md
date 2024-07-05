@@ -12,4 +12,4 @@ docker build -t myapp .
 docker run --rm -ti -p 8080:8080 myapp
 ```
 
-Thanks @jnolis for https://github.com/jnolis/shiny-docker.
+Thanks [Jacqueline Nolis](https://github.com/jnolis) for https://github.com/jnolis/shiny-docker.
